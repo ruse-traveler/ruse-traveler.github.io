@@ -1,5 +1,4 @@
 ---
-layout: post
 author: John Auktopus
 ---
 The octopus (plural octopuses) is a soft-bodied, eight-limbed 
